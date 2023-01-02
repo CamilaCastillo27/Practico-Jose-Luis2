@@ -66,3 +66,29 @@ ul{
     list-style: none;
     text-transform: uppercase;
 }
+#london{
+    text-decoration: line-through;
+}
+#sol{
+  font-size: 3rem;  
+  color:orangered;
+}
+
+ 
+.textop{
+    text-transform: uppercase;
+    font-size: 3rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 12px;
+}
+ 
+.diagonal{
+    position: absolute;
+    top: 530px ;
+    width: 84.5rem;
+    padding: 50px;
+    transform: skewY(-5deg) ;
+    background-color: black;
+    color:white;
+}
+
