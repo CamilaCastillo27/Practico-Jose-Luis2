@@ -41,7 +41,7 @@ nav>a{
     display: flex;
     margin-top: 15px;
     width: 100%;
-    justify-content: center;
+    
 }
 
 .contenedor{
@@ -50,3 +50,19 @@ nav>a{
     justify-content: center;
 }
 
+.d-flex{
+    display: flex;
+}
+.presentation{
+    width: 55%;
+}
+.img-profile>img{
+    width: 500px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    text-transform: uppercase;
+}
